@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commercial Strategy Desk</title>
+    <style>
+        /* Base Styling */
+        :root {
+            --bg-color: #f4f7f6;
+            --sidebar-bg: #1e293b;
+            --card-bg: #ffffff;
+            --text-main: #334155;
+            --text-light: #64748b;
+            --accent: #2563eb;
+            --border: #e2e8f0;
+        }
+        
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 260px;
+            background-color: var(--sidebar-bg);
+            color: white;
+            padding: 20px 0;
+            display: flex;
+            flex-direction: column;
+        }
+        .sidebar-brand {
+            padding: 0 20px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border-bottom: 1px solid #334155;
+            margin-bottom: 20px;
+        }
+        .nav-item {
+            padding: 12px 20px;
+            color: #cbd5e1;
+            text-decoration: none;
+            font-weight: 500;
+            transition: 0.2s;
+        }
+        .nav-item:hover, .nav-item.active {
+            background-color: #334155;
+            color: white;
+            border-left: 4px solid var(--accent);
+        }
+
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 20px;
+        }
+        .header h1 { margin: 0; font-size: 1.8rem; }
+        .timestamp { color: var(--text-light); font-size: 0.9rem; }
+
+        /* Status & Feed */
+        .status-badge {
+            display: inline-block;
+            background: #dbeafe;
+            color: #1e40af;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+        
+        #feed-container {
+            display: grid;
+            gap: 20px;
+        }
+
+        /* Article Cards */
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 24px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .firm-tag {
+            display: inline-block;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-weight: 700;
+            color: var(--accent);
+            margin-bottom: 10px;
+        }
+        .card-title {
+            margin: 0 0 10px 0;
+            font-size: 1.25rem;
+        }
+        .card-title a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+        .card-title a:hover { color: var(--accent); }
+        .card-summary {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 15px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .card-footer {
+            font-size: 0.8rem;
+            color: #94a3b8;
+            border-top: 1px solid var(--border);
+            padding-top: 15px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar">
+        <div class="sidebar-brand">Strategy Desk</div>
+        <a href="#" class="nav-item active">Intelligence Feed</a>
+        <a href="#" class="nav-item">Markets (Coming Soon)</a>
+        <a href="#" class="nav-item">Competition (Coming Soon)</a>
+    </nav>
+
+    <!-- Main Dashboard Area -->
+    <main class="main-content">
+        <div class="header">
+            <h1>Strategic Signals</h1>
+            <div class="timestamp" id="last-updated">Checking data pipeline...</div>
+        </div>
+
+        <div class="status-badge" id="loading-status">Syncing temporal data...</div>
+
+        <div id="feed-container">
+            <!-- JavaScript will inject articles here -->
+        </div>
+    </main>
+
+    <!-- Application Logic -->
+    <script>
+        async function fetchDashboardData() {
+            const container = document.getElementById('feed-container');
+            const statusBadge = document.getElementById('loading-status');
+            const timestampEl = document.getElementById('last-updated');
+
+            try {
+                // Fetch the JSON generated by your Python scraper
+                // Adding a cache-buster query string so GitHub Pages doesn't serve stale data
+                const response = await fetch('data_signals.json?' + new Date().getTime());
+                
+                if (!response.ok) {
+                    throw new Error('Data file not found. Has the GitHub Action run yet?');
+                }
+
+                const data = await response.json();
+                
+                // Update UI statuses
+                statusBadge.style.display = 'none';
+                timestampEl.innerText = `Last updated: ${data.last_updated}`;
+                
+                // Clear container
+                container.innerHTML = '';
+
+                // Loop through articles and create HTML cards
+                data.articles.forEach(article => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    
+                    // Strip basic HTML tags from summary if feeds include them
+                    const cleanSummary = article.summary.replace(/<[^>]*>?/gm, '');
+
+                    card.innerHTML = `
+                        <div class="firm-tag">${article.firm}</div>
+                        <h2 class="card-title">
+                            <a href="${article.link}" target="_blank" rel="noopener noreferrer">
+                                ${article.title}
+                            </a>
+                        </h2>
+                        <div class="card-summary">${cleanSummary}</div>
+                        <div class="card-footer">
+                            Fetched from source on ${article.fetched_at}
+                        </div>
+                    `;
+                    
+                    container.appendChild(card);
+                });
+
+            } catch (error) {
+                console.error("Error loading data:", error);
+                statusBadge.innerText = "Error syncing data.";
+                statusBadge.style.background = "#fee2e2";
+                statusBadge.style.color = "#991b1b";
+                container.innerHTML = `<p style="color: var(--text-light)">Ensure your GitHub Action has run successfully and generated the data_signals.json file.</p>`;
+            }
+        }
+
+        // Initialize the app when the page loads
+        document.addEventListener('DOMContentLoaded', fetchDashboardData);
+    </script>
+</body>
+</html>
