@@ -3,7 +3,7 @@ name: Daily Strategy Feed Update
 on:
   schedule:
     # Runs everyday at 6:00 AM UTC (Adjust cron if needed)
-    - cron: '0 6 * * *'
+    - cron: '17 6 * * *'
   workflow_dispatch: # Allows you to trigger it manually anytime via the GitHub UI
 
 jobs:
