@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 15, 2026 at 11:54 AM",
+    "last_updated": "July 16, 2026 at 12:00 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Amid volatility, oil and gas M&A abounds. Here’s how to capture full value",
+            "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/amid-volatility-oil-and-gas-m-and-a-abounds-heres-how-to-capture-full-value",
+            "summary": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
+            "fetched_at": "2026-07-16 12:00:23"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "How B.TECH transformed into a technology-powered retailer",
+            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
+            "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.",
+            "fetched_at": "2026-07-16 12:00:23"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
+            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
+            "summary": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.",
+            "fetched_at": "2026-07-16 12:00:23"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The CEO’s role in transformation",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
             "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their organizations.",
-            "fetched_at": "2026-07-15 11:54:51"
+            "fetched_at": "2026-07-16 12:00:23"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "How consumers are reshaping the future of mobility",
-            "link": "https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility",
-            "summary": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new brands and transportation modes.",
-            "fetched_at": "2026-07-15 11:54:51"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How physician CEOs hone the double-edged sword of clinical training",
-            "link": "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training",
-            "summary": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in clinical training for enterprise leadership.",
-            "fetched_at": "2026-07-15 11:54:51"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Building expertise in the age of AI: Who trains the next generation?",
-            "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation",
-            "summary": "As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.",
-            "fetched_at": "2026-07-15 11:54:51"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Rewiring customer experience for the agentic era",
-            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era",
-            "summary": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel orchestration.",
-            "fetched_at": "2026-07-15 11:54:51"
+            "title": "How AI is reshaping the future of the AEC industry",
+            "link": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
+            "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.",
+            "fetched_at": "2026-07-16 12:00:23"
         }
     ]
 }
