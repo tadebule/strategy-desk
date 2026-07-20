@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 19, 2026 at 10:59 AM",
+    "last_updated": "July 20, 2026 at 01:28 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
+            "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
+            "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+            "fetched_at": "2026-07-20 13:28:22"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "From instinct to real-time insight: Transforming steel sales with AI",
+            "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
+            "summary": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople to focus on what mattered most: creating value for customers.",
+            "fetched_at": "2026-07-20 13:28:22"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Author Talks: How a CEO got faster in his 40s",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-a-ceo-got-faster-in-his-40s",
+            "summary": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned about life and leadership from getting faster against the odds.",
+            "fetched_at": "2026-07-20 13:28:22"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "AI in the Australian for-purpose sector: Laying a strong foundation",
             "link": "https://www.mckinsey.com/au/our-insights/ai-in-the-australian-for-purpose-sector-laying-a-strong-foundation",
             "summary": "AI adoption in Australian for-purpose organisations is growing, but without a considered approach, AI can add pressure and prioritise output over outcomes. How can leaders prepare their teams for more effective AI journeys?",
-            "fetched_at": "2026-07-19 10:59:48"
+            "fetched_at": "2026-07-20 13:28:22"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Pricing in distribution: A strategic growth engine",
             "link": "https://www.mckinsey.com/industries/industrials/our-insights/pricing-in-distribution-a-strategic-growth-engine",
             "summary": "Pricing is a critical value creation lever for distributors to respond to market challenges. Here are four capabilities critical to unlocking pricing’s power.",
-            "fetched_at": "2026-07-19 10:59:48"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Will you fly—or freeze? How founders can build enduring companies beyond $10 billion",
-            "link": "https://www.mckinsey.com/industries/private-capital/our-insights/will-you-fly-or-freeze-how-founders-can-build-enduring-companies-beyond-10-billion-dollars",
-            "summary": "Many founder-led companies freeze at the $1 billion to $10 billion valuation stage. Those that scale reinvent their business, people—and themselves—at five key inflection points.",
-            "fetched_at": "2026-07-19 10:59:48"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Amid volatility, oil and gas M&A abounds. Here’s how to capture full value",
-            "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/amid-volatility-oil-and-gas-m-and-a-abounds-heres-how-to-capture-full-value",
-            "summary": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
-            "fetched_at": "2026-07-19 10:59:48"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How B.TECH transformed into a technology-powered retailer",
-            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
-            "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.",
-            "fetched_at": "2026-07-19 10:59:48"
+            "fetched_at": "2026-07-20 13:28:22"
         }
     ]
 }
