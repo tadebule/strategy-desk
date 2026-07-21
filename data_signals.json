@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 20, 2026 at 01:28 PM",
+    "last_updated": "July 21, 2026 at 12:10 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The second look: An adaptive approach to reunderwriting",
+            "link": "https://www.mckinsey.com/industries/private-capital/our-insights/the-second-look-an-adaptive-approach-to-reunderwriting",
+            "summary": "The best-performing PE firms build on deal diligence in a disciplined way throughout the hold period, revisiting and retuning their exit options and equity stories to realize higher returns.",
+            "fetched_at": "2026-07-21 12:10:43"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Robot reboot",
+            "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-robot-reboot",
+            "summary": "A new generation of robotics is powering up. How can leaders capture the value at stake while ensuring successful human–machine collaboration?",
+            "fetched_at": "2026-07-21 12:10:43"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
             "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
             "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
-            "fetched_at": "2026-07-20 13:28:22"
+            "fetched_at": "2026-07-21 12:10:43"
         },
         {
             "firm": "McKinsey & Company",
             "title": "From instinct to real-time insight: Transforming steel sales with AI",
             "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
             "summary": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople to focus on what mattered most: creating value for customers.",
-            "fetched_at": "2026-07-20 13:28:22"
+            "fetched_at": "2026-07-21 12:10:43"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Author Talks: How a CEO got faster in his 40s",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-a-ceo-got-faster-in-his-40s",
             "summary": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned about life and leadership from getting faster against the odds.",
-            "fetched_at": "2026-07-20 13:28:22"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "AI in the Australian for-purpose sector: Laying a strong foundation",
-            "link": "https://www.mckinsey.com/au/our-insights/ai-in-the-australian-for-purpose-sector-laying-a-strong-foundation",
-            "summary": "AI adoption in Australian for-purpose organisations is growing, but without a considered approach, AI can add pressure and prioritise output over outcomes. How can leaders prepare their teams for more effective AI journeys?",
-            "fetched_at": "2026-07-20 13:28:22"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Pricing in distribution: A strategic growth engine",
-            "link": "https://www.mckinsey.com/industries/industrials/our-insights/pricing-in-distribution-a-strategic-growth-engine",
-            "summary": "Pricing is a critical value creation lever for distributors to respond to market challenges. Here are four capabilities critical to unlocking pricing’s power.",
-            "fetched_at": "2026-07-20 13:28:22"
+            "fetched_at": "2026-07-21 12:10:43"
         }
     ]
 }
