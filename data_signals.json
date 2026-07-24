@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 23, 2026 at 12:12 PM",
+    "last_updated": "July 24, 2026 at 12:01 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Author Talks: Why founders misunderstand customer demand",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
+            "summary": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical framework for finding the “ideal” customer.",
+            "fetched_at": "2026-07-24 12:01:35"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
             "summary": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that prepare now.",
-            "fetched_at": "2026-07-23 12:12:27"
+            "fetched_at": "2026-07-24 12:01:35"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The global balance sheet 2026: Imbalance and divergence",
-            "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
-            "summary": "",
-            "fetched_at": "2026-07-23 12:12:27"
+            "title": "The human advantage in an AI economy",
+            "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
+            "summary": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up with rising cognitive demands.",
+            "fetched_at": "2026-07-24 12:01:35"
         },
         {
             "firm": "McKinsey & Company",
             "title": "How Montefiore Einstein turned technology into enterprise value",
             "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
             "summary": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronger foundation for delivering care.",
-            "fetched_at": "2026-07-23 12:12:27"
+            "fetched_at": "2026-07-24 12:01:35"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Chokepoints: How to respond when the global economy gets squeezed",
-            "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/chokepoints-how-to-respond-when-the-global-economy-gets-squeezed",
-            "summary": "As the situation in the Strait of Hormuz makes clear, business success increasingly depends on managing global disruption and risk in a three-dimensional way: reroute, replace, and substitute.",
-            "fetched_at": "2026-07-23 12:12:27"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future",
-            "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future",
-            "summary": "Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.",
-            "fetched_at": "2026-07-23 12:12:27"
+            "title": "The global balance sheet 2026: Imbalance and divergence",
+            "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
+            "summary": "",
+            "fetched_at": "2026-07-24 12:01:35"
         }
     ]
 }
