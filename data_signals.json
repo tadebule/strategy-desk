@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 26, 2026 at 11:10 AM",
+    "last_updated": "July 27, 2026 at 03:57 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
+            "summary": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
+            "fetched_at": "2026-07-27 15:57:21"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Author Talks: Why founders misunderstand customer demand",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
             "summary": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical framework for finding the “ideal” customer.",
-            "fetched_at": "2026-07-26 11:10:11"
+            "fetched_at": "2026-07-27 15:57:21"
         },
         {
             "firm": "McKinsey & Company",
             "title": "How AI agents can help FP&A better steer the business",
             "link": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business",
             "summary": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before performance gaps widen.",
-            "fetched_at": "2026-07-26 11:10:11"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
-            "summary": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that prepare now.",
-            "fetched_at": "2026-07-26 11:10:11"
+            "fetched_at": "2026-07-27 15:57:21"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The human advantage in an AI economy",
             "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
             "summary": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up with rising cognitive demands.",
-            "fetched_at": "2026-07-26 11:10:11"
+            "fetched_at": "2026-07-27 15:57:21"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "How Montefiore Einstein turned technology into enterprise value",
-            "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
-            "summary": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronger foundation for delivering care.",
-            "fetched_at": "2026-07-26 11:10:11"
+            "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
+            "summary": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that prepare now.",
+            "fetched_at": "2026-07-27 15:57:21"
         }
     ]
 }
