@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 29, 2026 at 01:11 PM",
+    "last_updated": "July 30, 2026 at 12:14 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Lion Finance: Competing like a fintech, winning as a bank",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
+            "summary": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.",
+            "fetched_at": "2026-07-30 12:14:24"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Bayer’s Sai Jasti on driving productivity in R&D with data science and AI",
             "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai",
             "summary": "Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.",
-            "fetched_at": "2026-07-29 13:11:04"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Why AI will elevate instead of replace commercial teams",
-            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
-            "summary": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
-            "fetched_at": "2026-07-29 13:11:04"
+            "fetched_at": "2026-07-30 12:14:24"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The CEO’s critical role in building new businesses",
             "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
             "summary": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.",
-            "fetched_at": "2026-07-29 13:11:04"
+            "fetched_at": "2026-07-30 12:14:24"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Why AI will elevate instead of replace commercial teams",
+            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
+            "summary": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
+            "fetched_at": "2026-07-30 12:14:24"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
             "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
             "summary": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
-            "fetched_at": "2026-07-29 13:11:04"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Lessons in resilience, leadership, and trust: An interview with Kathy Roth-Douquet",
-            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/lessons-in-resilience-leadership-and-trust-an-interview-with-kathy-roth-douquet",
-            "summary": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen community bonds.",
-            "fetched_at": "2026-07-29 13:11:04"
+            "fetched_at": "2026-07-30 12:14:24"
         }
     ]
 }
