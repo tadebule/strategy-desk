@@ -1,40 +1,40 @@
 {
-    "last_updated": "July 30, 2026 at 12:14 PM",
+    "last_updated": "July 31, 2026 at 01:09 PM",
     "articles": [
         {
             "firm": "McKinsey & Company",
-            "title": "Lion Finance: Competing like a fintech, winning as a bank",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
-            "summary": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.",
-            "fetched_at": "2026-07-30 12:14:24"
+            "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+            "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+            "fetched_at": "2026-07-31 13:09:28"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Bayer’s Sai Jasti on driving productivity in R&D with data science and AI",
-            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai",
-            "summary": "Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.",
-            "fetched_at": "2026-07-30 12:14:24"
+            "title": "How utilities can rewire customer operations with agentic AI",
+            "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
+            "summary": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while reducing costs.",
+            "fetched_at": "2026-07-31 13:09:28"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The CEO’s critical role in building new businesses",
-            "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
-            "summary": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.",
-            "fetched_at": "2026-07-30 12:14:24"
+            "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+            "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
+            "fetched_at": "2026-07-31 13:09:28"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Why AI will elevate instead of replace commercial teams",
-            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
-            "summary": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
-            "fetched_at": "2026-07-30 12:14:24"
+            "title": "The new advantage in the age of AI: Building in the real world",
+            "link": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+            "summary": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation.",
+            "fetched_at": "2026-07-31 13:09:28"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
-            "summary": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
-            "fetched_at": "2026-07-30 12:14:24"
+            "title": "Author Talks: The daily practices that lead to exceptional performance",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-daily-practices-that-lead-to-exceptional-performance",
+            "summary": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of high performance.",
+            "fetched_at": "2026-07-31 13:09:28"
         }
     ]
 }
