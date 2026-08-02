@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 01, 2026 at 11:11 AM",
+    "last_updated": "August 02, 2026 at 11:07 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
             "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
             "link": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
             "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
-            "fetched_at": "2026-08-01 11:11:56"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Is the AI productivity story at a turning point?",
-            "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
-            "summary": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him hope—and keeps him up at night.",
-            "fetched_at": "2026-08-01 11:11:56"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Global Economics Intelligence executive summary, June 2026",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-            "summary": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while Brazil and Russia focus on stimulus with 25-basis-point cuts.",
-            "fetched_at": "2026-08-01 11:11:56"
+            "fetched_at": "2026-08-02 11:07:28"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Powering AI: How real is the risk of overbuilding?",
             "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
             "summary": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current projections.",
-            "fetched_at": "2026-08-01 11:11:56"
+            "fetched_at": "2026-08-02 11:07:28"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Global Economics Intelligence executive summary, June 2026",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+            "summary": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while Brazil and Russia focus on stimulus with 25-basis-point cuts.",
+            "fetched_at": "2026-08-02 11:07:28"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Is the AI productivity story at a turning point?",
+            "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
+            "summary": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him hope—and keeps him up at night.",
+            "fetched_at": "2026-08-02 11:07:28"
         },
         {
             "firm": "McKinsey & Company",
             "title": "How utilities can rewire customer operations with agentic AI",
             "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
             "summary": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while reducing costs.",
-            "fetched_at": "2026-08-01 11:11:56"
+            "fetched_at": "2026-08-02 11:07:28"
         }
     ]
 }
