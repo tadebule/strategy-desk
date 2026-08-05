@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 04, 2026 at 12:31 PM",
+    "last_updated": "August 05, 2026 at 09:05 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
+            "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
+            "summary": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding economic opportunity in a changing nation.",
+            "fetched_at": "2026-08-05 09:05:47"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Escaping the pilot trap: Building HR for the agentic era",
             "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/escaping-the-pilot-trap-building-hr-for-the-agentic-era",
             "summary": "Organizations that create the most effective agentic HR functions don’t just scale pilots. They define the human–agent operating model for the function first, then work backward to implementation.",
-            "fetched_at": "2026-08-04 12:31:22"
+            "fetched_at": "2026-08-05 09:05:47"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Adapting for America’s next chapter: An interview with CQ Brown",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/adapting-for-americas-next-chapter-an-interview-with-cq-brown",
+            "summary": "The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next generation of leaders.",
+            "fetched_at": "2026-08-05 09:05:47"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Author Talks: One size does not fit all",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all",
+            "summary": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better design starts with broader perspectives.",
+            "fetched_at": "2026-08-05 09:05:47"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The McKinsey Crossword: GEoPolitics | No. 267",
             "link": "https://www.mckinsey.com/featured-insights/the-mckinsey-crossword/august-2026",
             "summary": "Sharpen your problem-solving skills with the McKinsey Quarterly crossword. Each puzzle is created with the McKinsey audience in mind and is built around a subtle (and sometimes not-so-subtle) business theme for you to find.",
-            "fetched_at": "2026-08-04 12:31:22"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
-            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
-            "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
-            "fetched_at": "2026-08-04 12:31:22"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Is the AI productivity story at a turning point?",
-            "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
-            "summary": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him hope—and keeps him up at night.",
-            "fetched_at": "2026-08-04 12:31:22"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Powering AI: How real is the risk of overbuilding?",
-            "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
-            "summary": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current projections.",
-            "fetched_at": "2026-08-04 12:31:22"
+            "fetched_at": "2026-08-05 09:05:47"
         }
     ]
 }
