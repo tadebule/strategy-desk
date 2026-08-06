@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 05, 2026 at 09:05 AM",
+    "last_updated": "August 06, 2026 at 09:06 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "How do we reach universal prosperity by 2100?",
+            "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/how-do-we-reach-universal-prosperity-by-2100",
+            "summary": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?",
+            "fetched_at": "2026-08-06 09:06:33"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
             "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
             "summary": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding economic opportunity in a changing nation.",
-            "fetched_at": "2026-08-05 09:05:47"
+            "fetched_at": "2026-08-06 09:06:33"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "An architect of modern media, a literary champion, and a retail revolutionary",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-4",
+            "summary": "Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.",
+            "fetched_at": "2026-08-06 09:06:33"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "How AI is redefining category management in distribution",
+            "link": "https://www.mckinsey.com/industries/industrials/our-insights/how-ai-is-redefining-category-management-in-distribution",
+            "summary": "New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic impact.",
+            "fetched_at": "2026-08-06 09:06:33"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Escaping the pilot trap: Building HR for the agentic era",
             "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/escaping-the-pilot-trap-building-hr-for-the-agentic-era",
             "summary": "Organizations that create the most effective agentic HR functions don’t just scale pilots. They define the human–agent operating model for the function first, then work backward to implementation.",
-            "fetched_at": "2026-08-05 09:05:47"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Adapting for America’s next chapter: An interview with CQ Brown",
-            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/adapting-for-americas-next-chapter-an-interview-with-cq-brown",
-            "summary": "The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next generation of leaders.",
-            "fetched_at": "2026-08-05 09:05:47"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Author Talks: One size does not fit all",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all",
-            "summary": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better design starts with broader perspectives.",
-            "fetched_at": "2026-08-05 09:05:47"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The McKinsey Crossword: GEoPolitics | No. 267",
-            "link": "https://www.mckinsey.com/featured-insights/the-mckinsey-crossword/august-2026",
-            "summary": "Sharpen your problem-solving skills with the McKinsey Quarterly crossword. Each puzzle is created with the McKinsey audience in mind and is built around a subtle (and sometimes not-so-subtle) business theme for you to find.",
-            "fetched_at": "2026-08-05 09:05:47"
+            "fetched_at": "2026-08-06 09:06:33"
         }
     ]
 }
