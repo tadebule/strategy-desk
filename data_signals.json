@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 12, 2026 at 07:52 AM",
+    "last_updated": "August 13, 2026 at 07:53 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Driving value with an investor mindset",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset",
+            "summary": "Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience.",
+            "fetched_at": "2026-08-13 07:53:42"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The untapped prize: Asia’s high-net-worth insurance market",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market",
             "summary": "The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.",
-            "fetched_at": "2026-08-12 07:52:36"
+            "fetched_at": "2026-08-13 07:53:42"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Agentic AI and the future of global business services",
-            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
-            "summary": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
-            "fetched_at": "2026-08-12 07:52:36"
+            "title": "Joseph Tsai: Putting customers at the heart of innovation",
+            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/joseph-tsai-putting-customers-at-the-heart-of-innovation",
+            "summary": "Joseph Tsai has reshaped Cathay United Bank by balancing innovation with a long-term view that consistently focuses on the customer.",
+            "fetched_at": "2026-08-13 07:53:42"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "How AI-led commercial transformation can power industrial growth",
-            "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
-            "summary": "Industrial companies are entering the most consequential commercial reset in decades—and many are less prepared than they believe.",
-            "fetched_at": "2026-08-12 07:52:36"
+            "title": "Improving private equity exit prospects",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/improving-private-equity-exit-prospects",
+            "summary": "In today’s tougher exit environment, private equity firms are facing longer holding periods, valuation gaps, and increased pressure to return capital. Kai Vollhardt and Jelena Bauer are joined by Christian Habrich and Frederyk Schröder as they unpack their latest article on how to beat the exit odds. They share strategies top performing firms are using to improve exit outcomes and turn preparation into premium valuations, including how to translate AI potential into a credible value story.",
+            "fetched_at": "2026-08-13 07:53:42"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Solutions for the Black maternal-health crisis",
-            "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/solutions-for-the-black-maternal-health-crisis",
-            "summary": "Joy Rhoden of the American Hospital Association discusses how data, community partnerships, expanded care teams, and a focus on addressing health disparities are essential to improving maternal health outcomes.",
-            "fetched_at": "2026-08-12 07:52:36"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Author Talks: The biggest misconceptions about leadership",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-biggest-misconceptions-about-leadership",
-            "summary": "What if success depends less on talent than on luck, resilience, and your choices when things go wrong? Former Inflection CEO Mike Grossman challenges conventional wisdom about success and leadership.",
-            "fetched_at": "2026-08-12 07:52:36"
+            "title": "AI transformations run on trust",
+            "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-transformations-run-on-trust",
+            "summary": "Technology may power AI transformation, but people determine whether it succeeds. Leaders can build trust through transparency, clarity, and investment in employees to create lasting change.",
+            "fetched_at": "2026-08-13 07:53:42"
         }
     ]
 }
