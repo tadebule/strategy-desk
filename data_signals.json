@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 18, 2026 at 07:04 AM",
+    "last_updated": "August 19, 2026 at 07:05 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "How can the public sector meet the AI moment?",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+            "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
+            "fetched_at": "2026-08-19 07:05:19"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Reinventing the European pulp and paper operating model",
+            "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+            "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.",
+            "fetched_at": "2026-08-19 07:05:19"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Governing AI with intention in the social impact sector",
             "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
             "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued.",
-            "fetched_at": "2026-08-18 07:04:16"
+            "fetched_at": "2026-08-19 07:05:19"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Driving value with an investor mindset",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset",
             "summary": "Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience.",
-            "fetched_at": "2026-08-18 07:04:16"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How instant payments are transforming the financial landscape",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
-            "summary": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
-            "fetched_at": "2026-08-18 07:04:16"
+            "fetched_at": "2026-08-19 07:05:19"
         },
         {
             "firm": "McKinsey & Company",
             "title": "How premium leisure travel is rewriting airline economics",
             "link": "https://www.mckinsey.com/industries/travel/our-insights/how-premium-leisure-travel-is-rewriting-airline-economics",
             "summary": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of airline profitability.",
-            "fetched_at": "2026-08-18 07:04:16"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Brilliant Moves: Coffee with Suzano CEO Beto Abreu",
-            "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/brilliant-moves-coffee-with-suzano-ceo-beto-abreu",
-            "summary": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
-            "fetched_at": "2026-08-18 07:04:16"
+            "fetched_at": "2026-08-19 07:05:19"
         }
     ]
 }
