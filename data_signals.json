@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 19, 2026 at 07:05 AM",
+    "last_updated": "August 20, 2026 at 07:06 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Advancing American healthcare: An interview with Seema Verma",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
+            "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
+            "fetched_at": "2026-08-20 07:06:39"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Some hard questions about a world of plenty",
+            "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
+            "summary": "Plenty may be possible—but what would it take to make it probable?",
+            "fetched_at": "2026-08-20 07:06:39"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Michelle Williams on why public health is public wealth",
+            "link": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
+            "summary": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built.",
+            "fetched_at": "2026-08-20 07:06:39"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "How can the public sector meet the AI moment?",
             "link": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
             "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
-            "fetched_at": "2026-08-19 07:05:19"
+            "fetched_at": "2026-08-20 07:06:39"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Reinventing the European pulp and paper operating model",
             "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
             "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.",
-            "fetched_at": "2026-08-19 07:05:19"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Governing AI with intention in the social impact sector",
-            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
-            "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued.",
-            "fetched_at": "2026-08-19 07:05:19"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Driving value with an investor mindset",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset",
-            "summary": "Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience.",
-            "fetched_at": "2026-08-19 07:05:19"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How premium leisure travel is rewriting airline economics",
-            "link": "https://www.mckinsey.com/industries/travel/our-insights/how-premium-leisure-travel-is-rewriting-airline-economics",
-            "summary": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of airline profitability.",
-            "fetched_at": "2026-08-19 07:05:19"
+            "fetched_at": "2026-08-20 07:06:39"
         }
     ]
 }
