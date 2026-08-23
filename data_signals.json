@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 22, 2026 at 06:59 AM",
+    "last_updated": "August 23, 2026 at 07:01 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
             "title": "Beyond the copilot: Scaling the agentic product development life cycle",
             "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
             "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
-            "fetched_at": "2026-08-22 06:59:21"
+            "fetched_at": "2026-08-23 07:01:07"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Earning and sustaining trust in the age of AI",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
             "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
-            "fetched_at": "2026-08-22 06:59:21"
+            "fetched_at": "2026-08-23 07:01:07"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Advancing American healthcare: An interview with Seema Verma",
             "link": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
             "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
-            "fetched_at": "2026-08-22 06:59:21"
+            "fetched_at": "2026-08-23 07:01:07"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Some hard questions about a world of plenty",
             "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
             "summary": "Plenty may be possible—but what would it take to make it probable?",
-            "fetched_at": "2026-08-22 06:59:21"
+            "fetched_at": "2026-08-23 07:01:07"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Michelle Williams on why public health is public wealth",
             "link": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
             "summary": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built.",
-            "fetched_at": "2026-08-22 06:59:21"
+            "fetched_at": "2026-08-23 07:01:07"
         }
     ]
 }
