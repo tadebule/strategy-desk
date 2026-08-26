@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 25, 2026 at 07:08 AM",
+    "last_updated": "August 26, 2026 at 07:09 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+            "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+            "summary": "AI could unlock $230 billion for oil and gas and OFSE companies. The challenge is where to concentrate, how to scale, and how to share value when efficiency reduces the activity that many contracts reward.",
+            "fetched_at": "2026-08-26 07:09:04"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The state of AI in 2026: On the road to ROI",
+            "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+            "summary": "Organizations are deploying agentic coding tools and coming to grips with the costs of AI while still seeking to capture more of the benefits that their workers are deriving from their individual use of AI.",
+            "fetched_at": "2026-08-26 07:09:04"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "McKinsey’s Fangning Zhang on China’s growing role in life sciences R&D",
+            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d",
+            "summary": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency, and what global R&amp;D leaders need to do to build a genuine China strategy.",
+            "fetched_at": "2026-08-26 07:09:04"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Global Economics Intelligence executive summary, July 2026",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+            "summary": "With mixed economic signals and energy markets still vulnerable to disruption, central banks face an increasingly difficult balance between supporting growth and containing inflation.",
+            "fetched_at": "2026-08-26 07:09:04"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Where AI agents pay off: A practical guide to the economics of agentic workflows",
             "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows",
             "summary": "Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.",
-            "fetched_at": "2026-08-25 07:08:37"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Beyond the copilot: Scaling the agentic product development life cycle",
-            "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
-            "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
-            "fetched_at": "2026-08-25 07:08:37"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Earning and sustaining trust in the age of AI",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
-            "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
-            "fetched_at": "2026-08-25 07:08:37"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Advancing American healthcare: An interview with Seema Verma",
-            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
-            "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
-            "fetched_at": "2026-08-25 07:08:37"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Some hard questions about a world of plenty",
-            "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
-            "summary": "Plenty may be possible—but what would it take to make it probable?",
-            "fetched_at": "2026-08-25 07:08:37"
+            "fetched_at": "2026-08-26 07:09:04"
         }
     ]
 }
