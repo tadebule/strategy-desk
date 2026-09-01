@@ -1,40 +1,40 @@
 {
-    "last_updated": "August 31, 2026 at 01:52 PM",
+    "last_updated": "September 01, 2026 at 11:40 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
+            "summary": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by rethinking traditional approaches to insurance.",
+            "fetched_at": "2026-09-01 11:40:11"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
+            "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
+            "summary": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.",
+            "fetched_at": "2026-09-01 11:40:11"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Revolutionizing semiconductor fab operations with AI",
+            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
+            "summary": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and productivity gains.",
+            "fetched_at": "2026-09-01 11:40:11"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "AstraZeneca’s Bob Li on the MARS mission to eliminate cancer",
+            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer",
+            "summary": "Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized trials, AI, and international collaboration could do to change that within a decade.",
+            "fetched_at": "2026-09-01 11:40:11"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The new management playbook for AI: How to move faster and create more value",
             "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
-            "summary": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
-            "fetched_at": "2026-08-31 13:52:16"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "An update on US consumer sentiment: Holiday budgeting begins",
-            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
-            "summary": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our ConsumerWise team.",
-            "fetched_at": "2026-08-31 13:52:16"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
-            "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
-            "summary": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
-            "fetched_at": "2026-08-31 13:52:16"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Consumers don’t trust AI advice. They turn to it anyway.",
-            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-dont-trust-ai-advice-they-turn-to-it-anyway",
-            "summary": "Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they value, and why they buy.",
-            "fetched_at": "2026-08-31 13:52:16"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Cross-border payments: Out of the commodity trap, into the future",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
-            "summary": "As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here is how industry players can make the pivot.",
-            "fetched_at": "2026-08-31 13:52:16"
+            "summary": "There is a new management playbook emerging for how to run companies better in the age of AI.",
+            "fetched_at": "2026-09-01 11:40:11"
         }
     ]
 }
