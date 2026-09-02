@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 01, 2026 at 11:40 AM",
+    "last_updated": "September 02, 2026 at 11:19 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
             "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
             "summary": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by rethinking traditional approaches to insurance.",
-            "fetched_at": "2026-09-01 11:40:11"
+            "fetched_at": "2026-09-02 11:19:28"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Investing in the energy transition: Time to look at whole-system value",
+            "link": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+            "summary": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in flexibility and resilience.",
+            "fetched_at": "2026-09-02 11:19:28"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
             "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
             "summary": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.",
-            "fetched_at": "2026-09-01 11:40:11"
+            "fetched_at": "2026-09-02 11:19:28"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Revolutionizing semiconductor fab operations with AI",
             "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
             "summary": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and productivity gains.",
-            "fetched_at": "2026-09-01 11:40:11"
+            "fetched_at": "2026-09-02 11:19:28"
         },
         {
             "firm": "McKinsey & Company",
             "title": "AstraZeneca’s Bob Li on the MARS mission to eliminate cancer",
             "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer",
-            "summary": "Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized trials, AI, and international collaboration could do to change that within a decade.",
-            "fetched_at": "2026-09-01 11:40:11"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The new management playbook for AI: How to move faster and create more value",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
-            "summary": "There is a new management playbook emerging for how to run companies better in the age of AI.",
-            "fetched_at": "2026-09-01 11:40:11"
+            "summary": "Bob Li, AstraZeneca’s Senior Vice President, Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized trials, AI, and international collaboration could do to change that within a decade.",
+            "fetched_at": "2026-09-02 11:19:28"
         }
     ]
 }
