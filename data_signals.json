@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 02, 2026 at 11:19 AM",
+    "last_updated": "September 03, 2026 at 11:15 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Made in America, again? Rethinking US manufacturing resilience",
+            "link": "https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience",
+            "summary": "Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?",
+            "fetched_at": "2026-09-03 11:15:28"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Climbing higher: Securing Switzerland’s competitiveness in a changing landscape",
+            "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/climbing-higher-securing-switzerlands-competitiveness-in-a-changing-landscape",
+            "summary": "Switzerland remains one of Europe’s most attractive locations for multinationals—but attractiveness is no longer self-sustaining. The question is not whether it stays attractive, but whether it actively fosters the conditions that sustain it.",
+            "fetched_at": "2026-09-03 11:15:28"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Why progress is more physical than we think",
+            "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/why-progress-is-more-physical-than-we-think",
+            "summary": "From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.",
+            "fetched_at": "2026-09-03 11:15:28"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Private equity confirms a timeless principle: Purchase price matters",
+            "link": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters",
+            "summary": "Recent data shows that buyout firms that maintain strict price discipline are delivering significantly higher MOIC than their peers.",
+            "fetched_at": "2026-09-03 11:15:28"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
             "summary": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by rethinking traditional approaches to insurance.",
-            "fetched_at": "2026-09-02 11:19:28"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Investing in the energy transition: Time to look at whole-system value",
-            "link": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
-            "summary": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in flexibility and resilience.",
-            "fetched_at": "2026-09-02 11:19:28"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
-            "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
-            "summary": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.",
-            "fetched_at": "2026-09-02 11:19:28"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Revolutionizing semiconductor fab operations with AI",
-            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
-            "summary": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and productivity gains.",
-            "fetched_at": "2026-09-02 11:19:28"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "AstraZeneca’s Bob Li on the MARS mission to eliminate cancer",
-            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer",
-            "summary": "Bob Li, AstraZeneca’s Senior Vice President, Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized trials, AI, and international collaboration could do to change that within a decade.",
-            "fetched_at": "2026-09-02 11:19:28"
+            "fetched_at": "2026-09-03 11:15:28"
         }
     ]
 }
