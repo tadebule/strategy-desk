@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 09, 2026 at 11:24 AM",
+    "last_updated": "September 10, 2026 at 11:20 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
-            "title": "The key to AI value is hiding in plain sight: Your operating model",
-            "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-key-to-ai-value-is-hiding-in-plain-sight-your-operating-model",
-            "summary": "New research shows that organizations undergoing AI transformation succeed not by adopting one “best” operating model, but by making intentional design choices and executing them effectively.",
-            "fetched_at": "2026-09-09 11:24:17"
+            "title": "Is progress behind us, or is ‘plenty’ still possible?",
+            "link": "https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible",
+            "summary": "A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.",
+            "fetched_at": "2026-09-10 11:20:50"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Creating value from AI and digital capabilities in logistics operations",
-            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/creating-value-from-ai-and-digital-capabilities-in-logistics-operations",
-            "summary": "As AI and digital capabilities become more widely adopted in logistics operations, the companies seeing returns from their investments are doing three things differently.",
-            "fetched_at": "2026-09-09 11:24:17"
+            "title": "The AI economy: Interconnected forces, feedback loops, and speeds of change",
+            "link": "https://www.mckinsey.com/mgi/our-research/the-ai-economy-interconnected-forces-feedback-loops-and-speeds-of-change",
+            "summary": "AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could influence its course and where hurdles and opportunities may emerge.",
+            "fetched_at": "2026-09-10 11:20:50"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Global Farmer Insights 2026",
-            "link": "https://www.mckinsey.com/industries/agriculture/our-insights/global-farmer-insights",
-            "summary": "Our biennial global survey of 5,500 farmers finds that they are becoming selective in their spending in the face of economic pressures. AI is making inroads, even as survey respondents rely on trusted advisers for purchasing guidance.",
-            "fetched_at": "2026-09-09 11:24:17"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Geopolitics and the geometry of global trade: September 2026 update",
-            "link": "https://www.mckinsey.com/mgi/our-research/global-trade-regional-updates",
+            "title": "How AI Is Reshaping What Clients Expect from Financial Advisors",
+            "link": "https://www.mckinsey.com/cn/updates/how-ai-is-reshaping-what-clients-expect-from-financial-advisors",
             "summary": "",
-            "fetched_at": "2026-09-09 11:24:17"
+            "fetched_at": "2026-09-10 11:20:50"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Your budget is killing your strategy: four imperatives for CFOs",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/your-budget-is-killing-your-strategy-four-imperatives-for-cfos",
-            "summary": "The traditional annual budget process is broken. It is rigid, backward-looking, and not operationally fit to keep up with today's fast-moving markets. Top-performing companies are outpacing peers by budgeting differently. Matthew Maloney, Karen McLoughlin, and Michele Tam join us to discuss their recent article on how top-performing companies are transforming the budget from a control mechanism to a dynamic road map for driving growth. They share how leading CFOs are more closely linking the budget to strategic priorities, and how harnessing AI enables a data-driven, forward-looking approach.",
-            "fetched_at": "2026-09-09 11:24:17"
+            "title": "Building profitable EVs: Ten structural design moves to cut material costs",
+            "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs",
+            "summary": "With incentives declining and input costs rising, electric vehicle profitability is under pressure. Targeted design levers can reduce material costs by 10 to 25 percent while preserving performance.",
+            "fetched_at": "2026-09-10 11:20:50"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Author Talks: Why leadership intelligence matters in the AI age",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-leadership-intelligence-matters-in-the-ai-age",
+            "summary": "Lessons from cognitive science can help leaders become wiser, more inspiring, and more resilient. McKinsey Senior Adviser Caroline Webb explains why human intelligence is a growing leadership advantage.",
+            "fetched_at": "2026-09-10 11:20:50"
         }
     ]
 }
