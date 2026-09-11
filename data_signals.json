@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 10, 2026 at 11:20 AM",
+    "last_updated": "September 11, 2026 at 11:22 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Strategy in the age of arenas",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategy-in-the-age-of-arenas",
+            "summary": "A group of fast-growing industries is reshaping the competitive landscape. Their rise requires business leaders to rethink strategy in two important ways.",
+            "fetched_at": "2026-09-11 11:22:06"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The speed problem: How frontier AI exposes weakness in enterprise cybersecurity",
+            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-speed-problem-how-frontier-ai-exposes-weakness-in-enterprise-cybersecurity",
+            "summary": "Attackers now move at machine speed, but organizations make decisions at committee speed. To close the gap, businesses need a different operating model and committed executive leadership.",
+            "fetched_at": "2026-09-11 11:22:06"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Is progress behind us, or is ‘plenty’ still possible?",
             "link": "https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible",
             "summary": "A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.",
-            "fetched_at": "2026-09-10 11:20:50"
+            "fetched_at": "2026-09-11 11:22:06"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Winning: What the best athletes, teams, and coaches do differently",
+            "link": "https://www.mckinsey.com/featured-insights/winning-what-the-best-athletes-teams-and-coaches-do-differently",
+            "summary": "Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.",
+            "fetched_at": "2026-09-11 11:22:06"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The AI economy: Interconnected forces, feedback loops, and speeds of change",
             "link": "https://www.mckinsey.com/mgi/our-research/the-ai-economy-interconnected-forces-feedback-loops-and-speeds-of-change",
             "summary": "AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could influence its course and where hurdles and opportunities may emerge.",
-            "fetched_at": "2026-09-10 11:20:50"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How AI Is Reshaping What Clients Expect from Financial Advisors",
-            "link": "https://www.mckinsey.com/cn/updates/how-ai-is-reshaping-what-clients-expect-from-financial-advisors",
-            "summary": "",
-            "fetched_at": "2026-09-10 11:20:50"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Building profitable EVs: Ten structural design moves to cut material costs",
-            "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs",
-            "summary": "With incentives declining and input costs rising, electric vehicle profitability is under pressure. Targeted design levers can reduce material costs by 10 to 25 percent while preserving performance.",
-            "fetched_at": "2026-09-10 11:20:50"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Author Talks: Why leadership intelligence matters in the AI age",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-leadership-intelligence-matters-in-the-ai-age",
-            "summary": "Lessons from cognitive science can help leaders become wiser, more inspiring, and more resilient. McKinsey Senior Adviser Caroline Webb explains why human intelligence is a growing leadership advantage.",
-            "fetched_at": "2026-09-10 11:20:50"
+            "fetched_at": "2026-09-11 11:22:06"
         }
     ]
 }
