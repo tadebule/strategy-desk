@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 15, 2026 at 11:45 AM",
+    "last_updated": "September 16, 2026 at 11:35 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
-            "title": "Stacking the odds: A blueprint for successfully scaling agentic AI",
-            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/stacking-the-odds-a-blueprint-for-successfully-scaling-agentic-ai",
-            "summary": "Many enterprises are scaling AI agents faster than they are redesigning the work underneath. A detailed blueprint supports the rollout and lays the groundwork for lasting value creation.",
-            "fetched_at": "2026-09-15 11:44:58"
+            "title": "The decade to redefine UK banking",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+            "summary": "UK banks have never been more profitable—but have rarely been more exposed. Success depends on securing customers and deposits, winning the commercial transaction layer, and rebuilding the cost base.",
+            "fetched_at": "2026-09-16 11:35:23"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Australia’s next century of plenty",
-            "link": "https://www.mckinsey.com/au/our-insights/australias-next-century-of-plenty",
-            "summary": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its strengths to choose another century of plenty.",
-            "fetched_at": "2026-09-15 11:44:58"
+            "title": "The strategic new arenas reshaping insurance",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+            "summary": "AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry economics.",
+            "fetched_at": "2026-09-16 11:35:23"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The future of US manufacturing",
-            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-us-manufacturing",
-            "summary": "A quarter of America’s manufactured imports face critical trade dependencies. Strengthening US manufacturing will depend not only on capital but also on talent, energy, and resilient supplier networks.",
-            "fetched_at": "2026-09-15 11:44:58"
+            "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+            "summary": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But capacity alone will not solve the problem.",
+            "fetched_at": "2026-09-16 11:35:23"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Capturing life cycle value in Europe’s trucking industry",
-            "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
-            "summary": "The vast majority of Europe’s truck-related revenue flows after a vehicle is sold. Capturing that value presents a major growth opportunity.",
-            "fetched_at": "2026-09-15 11:44:58"
+            "title": "Author Talks: Read the room before you lead it",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
+            "summary": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and make better decisions.",
+            "fetched_at": "2026-09-16 11:35:23"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Strategy in the age of arenas",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategy-in-the-age-of-arenas",
-            "summary": "A group of fast-growing industries is reshaping the competitive landscape. Their rise requires business leaders to rethink strategy in two important ways.",
-            "fetched_at": "2026-09-15 11:44:58"
+            "title": "McKinsey Technology Trends Outlook 2026",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
+            "summary": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends and their potential impact on business and society.",
+            "fetched_at": "2026-09-16 11:35:23"
         }
     ]
 }
