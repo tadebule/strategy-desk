@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 16, 2026 at 11:35 AM",
+    "last_updated": "September 17, 2026 at 11:42 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Europe’s new AI edge? The emerging application layer opportunity",
+            "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
+            "summary": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application era.",
+            "fetched_at": "2026-09-17 11:42:21"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+            "link": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+            "summary": "The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.",
+            "fetched_at": "2026-09-17 11:42:21"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The agentic transformation office: Redefining the economics of change",
+            "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/the-agentic-transformation-office-redefining-the-economics-of-change",
+            "summary": "Successful transformations no longer require an army of people at the center.",
+            "fetched_at": "2026-09-17 11:42:21"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+            "summary": "Client loyalty evolves quickly. Leading banks are reclaiming the 12 to 25 percent of wallet share that changes hands every year instead of letting it drift.",
+            "fetched_at": "2026-09-17 11:42:21"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The decade to redefine UK banking",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
             "summary": "UK banks have never been more profitable—but have rarely been more exposed. Success depends on securing customers and deposits, winning the commercial transaction layer, and rebuilding the cost base.",
-            "fetched_at": "2026-09-16 11:35:23"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The strategic new arenas reshaping insurance",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
-            "summary": "AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry economics.",
-            "fetched_at": "2026-09-16 11:35:23"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
-            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
-            "summary": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But capacity alone will not solve the problem.",
-            "fetched_at": "2026-09-16 11:35:23"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Author Talks: Read the room before you lead it",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
-            "summary": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and make better decisions.",
-            "fetched_at": "2026-09-16 11:35:23"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "McKinsey Technology Trends Outlook 2026",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
-            "summary": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends and their potential impact on business and society.",
-            "fetched_at": "2026-09-16 11:35:23"
+            "fetched_at": "2026-09-17 11:42:21"
         }
     ]
 }
