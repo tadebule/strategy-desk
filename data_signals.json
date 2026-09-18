@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 17, 2026 at 11:42 AM",
+    "last_updated": "September 18, 2026 at 11:16 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The CMO as impact driver: A conversation with Genentech CMO Zoë Lazarre",
+            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre",
+            "summary": "Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.",
+            "fetched_at": "2026-09-18 11:16:09"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Why transformations stall—and where only CEOs make the difference",
+            "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
+            "summary": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
+            "fetched_at": "2026-09-18 11:16:09"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Europe’s new AI edge? The emerging application layer opportunity",
             "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
             "summary": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application era.",
-            "fetched_at": "2026-09-17 11:42:21"
+            "fetched_at": "2026-09-18 11:16:09"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
             "link": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
             "summary": "The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.",
-            "fetched_at": "2026-09-17 11:42:21"
+            "fetched_at": "2026-09-18 11:16:09"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The agentic transformation office: Redefining the economics of change",
-            "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/the-agentic-transformation-office-redefining-the-economics-of-change",
-            "summary": "Successful transformations no longer require an army of people at the center.",
-            "fetched_at": "2026-09-17 11:42:21"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Anchor or drift: What it takes to capture wallet share in 2026",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
-            "summary": "Client loyalty evolves quickly. Leading banks are reclaiming the 12 to 25 percent of wallet share that changes hands every year instead of letting it drift.",
-            "fetched_at": "2026-09-17 11:42:21"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The decade to redefine UK banking",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
-            "summary": "UK banks have never been more profitable—but have rarely been more exposed. Success depends on securing customers and deposits, winning the commercial transaction layer, and rebuilding the cost base.",
-            "fetched_at": "2026-09-17 11:42:21"
+            "title": "Here’s why some US industrial companies achieve higher multiples",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples",
+            "summary": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
+            "fetched_at": "2026-09-18 11:16:09"
         }
     ]
 }
