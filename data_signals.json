@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 18, 2026 at 11:16 AM",
+    "last_updated": "September 19, 2026 at 10:59 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
-            "title": "The CMO as impact driver: A conversation with Genentech CMO Zoë Lazarre",
-            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre",
-            "summary": "Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.",
-            "fetched_at": "2026-09-18 11:16:09"
+            "title": "Social care referral networks: Improving health in rural communities",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/social-care-referral-networks-improving-health-in-rural-communities",
+            "summary": "Six design dimensions can help states stand up social care referral networks that meaningfully improve health outcomes for Medicaid members in rural and underserved communities.",
+            "fetched_at": "2026-09-19 10:59:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Why transformations stall—and where only CEOs make the difference",
-            "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
-            "summary": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
-            "fetched_at": "2026-09-18 11:16:09"
+            "title": "Author Talks: How to turn hope into action",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-turn-hope-into-action",
+            "summary": "What compels us to act when we see a problem? Draper Richards Kaplan Foundation CEO Jim Bildner reflects on social entrepreneurship, personal loss, and how hope can move us to act.",
+            "fetched_at": "2026-09-19 10:59:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Europe’s new AI edge? The emerging application layer opportunity",
-            "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
-            "summary": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application era.",
-            "fetched_at": "2026-09-18 11:16:09"
+            "title": "The transformer supercycle: Why demand is outrunning supply",
+            "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+            "summary": "A new era of increased demand and constrained supply is fundamentally changing the global transformer market and reshaping decision-making across the value chain.",
+            "fetched_at": "2026-09-19 10:59:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
-            "link": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
-            "summary": "The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.",
-            "fetched_at": "2026-09-18 11:16:09"
+            "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+            "summary": "AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.",
+            "fetched_at": "2026-09-19 10:59:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Here’s why some US industrial companies achieve higher multiples",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples",
-            "summary": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
-            "fetched_at": "2026-09-18 11:16:09"
+            "title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+            "link": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+            "summary": "Organizations must redesign workflows to realize value from AI, but the challenge is where to begin. An opportunity lies between workflow steps, where work passes between teams and systems.",
+            "fetched_at": "2026-09-19 10:59:57"
         }
     ]
 }
