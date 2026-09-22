@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 21, 2026 at 12:49 PM",
+    "last_updated": "September 22, 2026 at 11:39 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Winning hearts in an age of infinite travel choices",
+            "link": "https://www.mckinsey.com/industries/travel/our-insights/winning-hearts-in-an-age-of-infinite-travel-choices",
+            "summary": "Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?",
+            "fetched_at": "2026-09-22 11:39:40"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The economics of AI",
+            "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-economics-of-ai",
+            "summary": "AI is getting more expensive for companies. As rising token usage and workflow complexity make costs harder to predict, leaders need new ways to manage AI economics.",
+            "fetched_at": "2026-09-22 11:39:40"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "WIRED: The AI playbook top companies use",
             "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
             "summary": "McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses across technology, processes, people, and leadership.",
-            "fetched_at": "2026-09-21 12:49:29"
+            "fetched_at": "2026-09-22 11:39:40"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Social care referral networks: Improving health in rural communities",
-            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/social-care-referral-networks-improving-health-in-rural-communities",
-            "summary": "Six design dimensions can help states stand up social care referral networks that meaningfully improve health outcomes for Medicaid members in rural and underserved communities.",
-            "fetched_at": "2026-09-21 12:49:29"
+            "title": "Novartis’s Christian Diehl on scaling AI beyond the demo",
+            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/novartiss-christian-diehl-on-scaling-ai-beyond-the-demo",
+            "summary": "Novartis’s chief data and digital officer for biomedical research explains how data platform investments are paying off in AI safety prediction, generative chemistry, and faster translation.",
+            "fetched_at": "2026-09-22 11:39:40"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Author Talks: How to turn hope into action",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-turn-hope-into-action",
-            "summary": "What compels us to act when we see a problem? Draper Richards Kaplan Foundation CEO Jim Bildner reflects on social entrepreneurship, personal loss, and how hope can move us to act.",
-            "fetched_at": "2026-09-21 12:49:29"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The transformer supercycle: Why demand is outrunning supply",
-            "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
-            "summary": "A new era of increased demand and constrained supply is fundamentally changing the global transformer market and reshaping decision-making across the value chain.",
-            "fetched_at": "2026-09-21 12:49:29"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
-            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
-            "summary": "AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.",
-            "fetched_at": "2026-09-21 12:49:29"
+            "title": "AI drug discovery: Focusing on what matters most",
+            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+            "summary": "AI is accelerating drug discovery, but investment has concentrated in molecule design—the stage with the best data and clearest tools. The industry’s real constraint lies elsewhere: identifying and validating the right disease mechanism.",
+            "fetched_at": "2026-09-22 11:39:40"
         }
     ]
 }
