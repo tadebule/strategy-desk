@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 22, 2026 at 11:39 AM",
+    "last_updated": "September 23, 2026 at 11:37 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz",
+            "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-through-uncertainty-a-talk-with-former-us-energy-secretary-ernest-moniz",
+            "summary": "The physicist and policymaker says the coming decade will be defined by a race for electrons—and that nuclear power, grid investment, and new public-private models will be part of the picture.",
+            "fetched_at": "2026-09-23 11:37:57"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Winning hearts in an age of infinite travel choices",
             "link": "https://www.mckinsey.com/industries/travel/our-insights/winning-hearts-in-an-age-of-infinite-travel-choices",
             "summary": "Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?",
-            "fetched_at": "2026-09-22 11:39:40"
+            "fetched_at": "2026-09-23 11:37:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The economics of AI",
-            "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-economics-of-ai",
-            "summary": "AI is getting more expensive for companies. As rising token usage and workflow complexity make costs harder to predict, leaders need new ways to manage AI economics.",
-            "fetched_at": "2026-09-22 11:39:40"
+            "title": "The future of healthy living: A $16.4 trillion opportunity",
+            "link": "https://www.mckinsey.com/mhi/our-insights/the-future-of-healthy-living-a-16-4-trillion-opportunity",
+            "summary": "New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9 percent to the global economy by 2050.",
+            "fetched_at": "2026-09-23 11:37:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "WIRED: The AI playbook top companies use",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
-            "summary": "McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses across technology, processes, people, and leadership.",
-            "fetched_at": "2026-09-22 11:39:40"
+            "title": "Ready to ramp? How US manufacturers can scale at pace",
+            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace",
+            "summary": "US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively ramp up production from today’s levels.",
+            "fetched_at": "2026-09-23 11:37:57"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Novartis’s Christian Diehl on scaling AI beyond the demo",
-            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/novartiss-christian-diehl-on-scaling-ai-beyond-the-demo",
-            "summary": "Novartis’s chief data and digital officer for biomedical research explains how data platform investments are paying off in AI safety prediction, generative chemistry, and faster translation.",
-            "fetched_at": "2026-09-22 11:39:40"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "AI drug discovery: Focusing on what matters most",
-            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
-            "summary": "AI is accelerating drug discovery, but investment has concentrated in molecule design—the stage with the best data and clearest tools. The industry’s real constraint lies elsewhere: identifying and validating the right disease mechanism.",
-            "fetched_at": "2026-09-22 11:39:40"
+            "title": "Value is the compass. Consumers set the pace.",
+            "link": "https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace",
+            "summary": "In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.",
+            "fetched_at": "2026-09-23 11:37:57"
         }
     ]
 }
