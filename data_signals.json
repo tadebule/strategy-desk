@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 25, 2026 at 11:51 AM",
+    "last_updated": "September 26, 2026 at 11:25 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Democratized superintelligence is coming: The world needs to get ready",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+            "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
+            "fetched_at": "2026-09-26 11:25:54"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
             "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
             "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
-            "fetched_at": "2026-09-25 11:51:37"
+            "fetched_at": "2026-09-26 11:25:54"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The new growth mandate: A conversation with LinkedIn CMO Jessica Jensen",
             "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-growth-mandate-a-conversation-with-linkedin-cmo-jessica-jensen",
             "summary": "At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a catalyst for growth.",
-            "fetched_at": "2026-09-25 11:51:37"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Democratized superintelligence is coming: The world needs to get ready",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
-            "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
-            "fetched_at": "2026-09-25 11:51:37"
+            "fetched_at": "2026-09-26 11:25:54"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Harnessing AI to make mining safer",
             "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
             "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
-            "fetched_at": "2026-09-25 11:51:37"
+            "fetched_at": "2026-09-26 11:25:54"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
             "link": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
             "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
-            "fetched_at": "2026-09-25 11:51:37"
+            "fetched_at": "2026-09-26 11:25:54"
         }
     ]
 }
