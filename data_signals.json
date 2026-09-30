@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 29, 2026 at 12:54 PM",
+    "last_updated": "September 30, 2026 at 12:35 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "How to drive transformations with rigor",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-drive-transformations-with-rigor",
+            "summary": "McKinsey research finds that companies executing transformations with rigor are much more likely to meet overall organizational transformation goals. Chris Hagedorn, Preeya Mody, and Michel Morenville join us to discuss what rigor really means in the context of transformation and how to embed it throughout the process, from setting the aspiration, to mobilization, to delivering impact.",
+            "fetched_at": "2026-09-30 12:35:52"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Author Talks: Can you fulfill your ambition and compose a life?",
+            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life",
+            "summary": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to ambition, resilience, and leadership.",
+            "fetched_at": "2026-09-30 12:35:52"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Workforce in motion: Skills and pathways to future jobs in the United States",
             "link": "https://www.mckinsey.com/mgi/our-research/workforce-in-motion-skills-and-pathways-to-future-jobs-in-the-united-states",
             "summary": "AI, automation, and broader structural trends are accelerating the reallocation of work across the US economy. Capturing its benefits requires developing new professional pathways and skills, and reducing barriers between declining and growing occupations.",
-            "fetched_at": "2026-09-29 12:54:04"
+            "fetched_at": "2026-09-30 12:35:52"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Navigating the new normal: Building resilience in fuel retail trading",
-            "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/navigating-the-new-normal-building-resilience-in-fuel-retail-trading",
-            "summary": "Commodity markets have entered a new era of persistent volatility. For fuel retailers, this is a chance to strengthen resilience and unlock value, but only with strategic investment and a shift in mindset.",
-            "fetched_at": "2026-09-29 12:54:04"
+            "title": "The next phase of government AI economics",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics",
+            "summary": "Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.",
+            "fetched_at": "2026-09-30 12:35:52"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The AI-powered future of care",
-            "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-ai-powered-future-of-care",
-            "summary": "AI won’t replace clinicians, but it can improve quality, increase access, and reshape the workforce, payments, and patient volumes. Today, AI can perform some 16 to 22 percent of US outpatient care.",
-            "fetched_at": "2026-09-29 12:54:04"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Convenience or discovery: Which mission will your store serve?",
-            "link": "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve",
-            "summary": "As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.",
-            "fetched_at": "2026-09-29 12:54:04"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
-            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
-            "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
-            "fetched_at": "2026-09-29 12:54:04"
+            "title": "Make life better: Mikhail Lomtadze’s customer-first philosophy",
+            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy",
+            "summary": "Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else.",
+            "fetched_at": "2026-09-30 12:35:52"
         }
     ]
 }
