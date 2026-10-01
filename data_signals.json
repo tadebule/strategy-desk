@@ -1,40 +1,40 @@
 {
-    "last_updated": "September 30, 2026 at 12:35 PM",
+    "last_updated": "October 01, 2026 at 01:16 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The cash hiding in plain sight",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight",
+            "summary": "Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.",
+            "fetched_at": "2026-10-01 13:16:21"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "How to drive transformations with rigor",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-drive-transformations-with-rigor",
             "summary": "McKinsey research finds that companies executing transformations with rigor are much more likely to meet overall organizational transformation goals. Chris Hagedorn, Preeya Mody, and Michel Morenville join us to discuss what rigor really means in the context of transformation and how to embed it throughout the process, from setting the aspiration, to mobilization, to delivering impact.",
-            "fetched_at": "2026-09-30 12:35:52"
+            "fetched_at": "2026-10-01 13:16:21"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Author Talks: Can you fulfill your ambition and compose a life?",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life",
-            "summary": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to ambition, resilience, and leadership.",
-            "fetched_at": "2026-09-30 12:35:52"
+            "title": "Global Economics Intelligence executive summary, August 2026",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+            "summary": "Public debt and search for growth exercise minds of economists and policymakers as US debt hits record high; inflation fueled by energy supply uncertainty limits room for maneuver on interest rates.",
+            "fetched_at": "2026-10-01 13:16:21"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Workforce in motion: Skills and pathways to future jobs in the United States",
-            "link": "https://www.mckinsey.com/mgi/our-research/workforce-in-motion-skills-and-pathways-to-future-jobs-in-the-united-states",
-            "summary": "AI, automation, and broader structural trends are accelerating the reallocation of work across the US economy. Capturing its benefits requires developing new professional pathways and skills, and reducing barriers between declining and growing occupations.",
-            "fetched_at": "2026-09-30 12:35:52"
+            "title": "The CEO’s singular impact on the success—or failure—of AI in organizations",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations",
+            "summary": "There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.",
+            "fetched_at": "2026-10-01 13:16:21"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "The next phase of government AI economics",
-            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics",
-            "summary": "Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.",
-            "fetched_at": "2026-09-30 12:35:52"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Make life better: Mikhail Lomtadze’s customer-first philosophy",
-            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy",
-            "summary": "Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else.",
-            "fetched_at": "2026-09-30 12:35:52"
+            "title": "Evidence over hype: New York’s path to a healthy-longevity economy",
+            "link": "https://www.mckinsey.com/mhi/our-insights/evidence-over-hype-new-yorks-path-to-a-healthy-longevity-economy",
+            "summary": "A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.",
+            "fetched_at": "2026-10-01 13:16:21"
         }
     ]
 }
