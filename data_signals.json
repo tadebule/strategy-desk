@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 01, 2026 at 01:16 PM",
+    "last_updated": "October 02, 2026 at 12:36 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "State of Consumer Africa 2026: Meeting the pragmatic shopper",
+            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper",
+            "summary": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how consumer-facing companies can respond.",
+            "fetched_at": "2026-10-02 12:36:03"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The bank’s digital twin: The future of nonfinancial risk management",
+            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management",
+            "summary": "The risk function’s fundamental purpose has not changed, but the nature of the risks, the pace at which they materialize, and the tools available to manage them have.",
+            "fetched_at": "2026-10-02 12:36:03"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The cash hiding in plain sight",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight",
             "summary": "Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.",
-            "fetched_at": "2026-10-01 13:16:21"
+            "fetched_at": "2026-10-02 12:36:03"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "How to drive transformations with rigor",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-drive-transformations-with-rigor",
-            "summary": "McKinsey research finds that companies executing transformations with rigor are much more likely to meet overall organizational transformation goals. Chris Hagedorn, Preeya Mody, and Michel Morenville join us to discuss what rigor really means in the context of transformation and how to embed it throughout the process, from setting the aspiration, to mobilization, to delivering impact.",
-            "fetched_at": "2026-10-01 13:16:21"
+            "title": "Modernizing for the mission: An interview with Jamie Wolff",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff",
+            "summary": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the mission and a relentless pace of change in mind.",
+            "fetched_at": "2026-10-02 12:36:03"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Global Economics Intelligence executive summary, August 2026",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-            "summary": "Public debt and search for growth exercise minds of economists and policymakers as US debt hits record high; inflation fueled by energy supply uncertainty limits room for maneuver on interest rates.",
-            "fetched_at": "2026-10-01 13:16:21"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The CEO’s singular impact on the success—or failure—of AI in organizations",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations",
-            "summary": "There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.",
-            "fetched_at": "2026-10-01 13:16:21"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Evidence over hype: New York’s path to a healthy-longevity economy",
-            "link": "https://www.mckinsey.com/mhi/our-insights/evidence-over-hype-new-yorks-path-to-a-healthy-longevity-economy",
-            "summary": "A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.",
-            "fetched_at": "2026-10-01 13:16:21"
+            "title": "America’s next growth opportunity: An investment-ready heartland",
+            "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/americas-next-growth-opportunity-an-investment-ready-heartland",
+            "summary": "With a more coordinated approach, smaller cities in the middle of the country could generate trillions of dollars in added economic output.",
+            "fetched_at": "2026-10-02 12:36:03"
         }
     ]
 }
