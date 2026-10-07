@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 06, 2026 at 01:19 PM",
+    "last_updated": "October 07, 2026 at 01:25 PM",
     "articles": [
         {
             "firm": "McKinsey & Company",
             "title": "Using production rates to excel at executing construction projects",
             "link": "https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects",
             "summary": "As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to optimize schedules, improve productivity, and make delivery predictable.",
-            "fetched_at": "2026-10-06 13:19:06"
+            "fetched_at": "2026-10-07 13:25:15"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Medtech needs more than a market rotation to win back investors",
             "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors",
             "summary": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.",
-            "fetched_at": "2026-10-06 13:19:06"
+            "fetched_at": "2026-10-07 13:25:15"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic",
             "summary": "From shipping and rare earths to energy and security, the Arctic is gaining importance in the global economy. The Financial Times’ Rana Foroohar explores its role in a new era of great-power competition.",
-            "fetched_at": "2026-10-06 13:19:06"
+            "fetched_at": "2026-10-07 13:25:15"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Scaling AI inference",
             "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
             "summary": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
-            "fetched_at": "2026-10-06 13:19:06"
+            "fetched_at": "2026-10-07 13:25:15"
         },
         {
             "firm": "McKinsey & Company",
             "title": "AI is changing work. Now it has to change the organization",
             "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
             "summary": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.",
-            "fetched_at": "2026-10-06 13:19:06"
+            "fetched_at": "2026-10-07 13:25:15"
         }
     ]
 }
