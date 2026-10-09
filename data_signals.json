@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 08, 2026 at 01:30 PM",
+    "last_updated": "October 09, 2026 at 01:18 PM",
     "articles": [
         {
             "firm": "McKinsey & Company",
-            "title": "Why AI’s easiest wins are misleading CEOs",
-            "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
-            "summary": "",
-            "fetched_at": "2026-10-08 13:30:41"
+            "title": "The six strategy roles a CEO must not delegate",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+            "summary": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+            "fetched_at": "2026-10-09 13:18:18"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Using production rates to excel at executing construction projects",
-            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects",
-            "summary": "As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to optimize schedules, improve productivity, and make delivery predictable.",
-            "fetched_at": "2026-10-08 13:30:41"
+            "title": "As the world order turns, leading companies are keeping pace. Here’s how",
+            "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
+            "summary": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build competitive advantage.",
+            "fetched_at": "2026-10-09 13:18:18"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Medtech needs more than a market rotation to win back investors",
-            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors",
-            "summary": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.",
-            "fetched_at": "2026-10-08 13:30:41"
+            "title": "For CPG companies, agentic AI’s real payoff is growth",
+            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
+            "summary": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to harness the technology’s power?",
+            "fetched_at": "2026-10-09 13:18:18"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic",
-            "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic",
-            "summary": "From shipping and rare earths to energy and security, the Arctic is gaining importance in the global economy. The Financial Times’ Rana Foroohar explores its role in a new era of great-power competition.",
-            "fetched_at": "2026-10-08 13:30:41"
+            "title": "Shapers and Founders: Understanding the owner mindset",
+            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset",
+            "summary": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing their businesses.",
+            "fetched_at": "2026-10-09 13:18:18"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Scaling AI inference",
-            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
-            "summary": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
-            "fetched_at": "2026-10-08 13:30:41"
+            "title": "The playbook for seeing around geopolitical corners",
+            "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners",
+            "summary": "From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming.",
+            "fetched_at": "2026-10-09 13:18:18"
         }
     ]
 }
