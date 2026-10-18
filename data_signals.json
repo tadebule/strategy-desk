@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 17, 2026 at 10:45 AM",
+    "last_updated": "October 18, 2026 at 11:06 AM",
     "articles": [
         {
             "firm": "McKinsey & Company",
             "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
             "link": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
             "summary": "Cognition co-founder and President Russell Kaplan explains why the next frontier of AI in software engineering is about more than writing code faster and what it takes to turn autonomous agents into measurable business value.",
-            "fetched_at": "2026-10-17 10:45:00"
+            "fetched_at": "2026-10-18 11:06:27"
         },
         {
             "firm": "McKinsey & Company",
             "title": "What is a forward-deployed engineer?",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
             "summary": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
-            "fetched_at": "2026-10-17 10:45:00"
+            "fetched_at": "2026-10-18 11:06:27"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Place, purpose, and the path to economic mobility",
             "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
             "summary": "Where you live shapes far more than you’d think. New research points to how community, place, and connection relate to getting ahead.",
-            "fetched_at": "2026-10-17 10:45:00"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Strengthening supply chains behind US semiconductors",
-            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
-            "summary": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more resilient.",
-            "fetched_at": "2026-10-17 10:45:00"
+            "fetched_at": "2026-10-18 11:06:27"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
             "summary": "Analysis now runs on AI time, but judgment still runs on human time. Three moves can help turn AI’s speed into better strategy decisions.",
-            "fetched_at": "2026-10-17 10:45:00"
+            "fetched_at": "2026-10-18 11:06:27"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Strengthening supply chains behind US semiconductors",
+            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
+            "summary": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more resilient.",
+            "fetched_at": "2026-10-18 11:06:27"
         }
     ]
 }
