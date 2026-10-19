@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 18, 2026 at 11:06 AM",
+    "last_updated": "October 19, 2026 at 01:17 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
+            "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
+            "summary": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in one of the world’s biggest economic corridors.",
+            "fetched_at": "2026-10-19 13:17:23"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity",
+            "link": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity",
+            "summary": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year for every woman and potentially contribute more than 7 billion Swiss francs in annual GDP by 2040.",
+            "fetched_at": "2026-10-19 13:17:23"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
             "link": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
             "summary": "Cognition co-founder and President Russell Kaplan explains why the next frontier of AI in software engineering is about more than writing code faster and what it takes to turn autonomous agents into measurable business value.",
-            "fetched_at": "2026-10-18 11:06:27"
+            "fetched_at": "2026-10-19 13:17:23"
         },
         {
             "firm": "McKinsey & Company",
             "title": "What is a forward-deployed engineer?",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
             "summary": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
-            "fetched_at": "2026-10-18 11:06:27"
+            "fetched_at": "2026-10-19 13:17:23"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Place, purpose, and the path to economic mobility",
             "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
             "summary": "Where you live shapes far more than you’d think. New research points to how community, place, and connection relate to getting ahead.",
-            "fetched_at": "2026-10-18 11:06:27"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
-            "summary": "Analysis now runs on AI time, but judgment still runs on human time. Three moves can help turn AI’s speed into better strategy decisions.",
-            "fetched_at": "2026-10-18 11:06:27"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Strengthening supply chains behind US semiconductors",
-            "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
-            "summary": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more resilient.",
-            "fetched_at": "2026-10-18 11:06:27"
+            "fetched_at": "2026-10-19 13:17:23"
         }
     ]
 }
