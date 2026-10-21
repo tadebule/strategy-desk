@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 20, 2026 at 11:37 AM",
+    "last_updated": "October 21, 2026 at 11:50 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Three horizons of quantum: A business road map to the future computing economy",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
+            "summary": "In the next decade, quantum technology could create trillions in value and break encryption, delivering opportunity but also risk. Leading companies are acting now to secure a competitive advantage.",
+            "fetched_at": "2026-10-21 11:50:09"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Switch tracks: Rewiring rolling stock for a new era",
+            "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era",
+            "summary": "Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from new builds toward servicing and renewals—while OEMs prepare for future opportunities.",
+            "fetched_at": "2026-10-21 11:50:09"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Securing software in the age of AI: Red Hat CTO Chris Wright",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright",
+            "summary": "Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge stronger as a result.",
+            "fetched_at": "2026-10-21 11:50:09"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity",
             "link": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity",
             "summary": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year for every woman and potentially contribute more than 7 billion Swiss francs in annual GDP by 2040.",
-            "fetched_at": "2026-10-20 11:37:55"
+            "fetched_at": "2026-10-21 11:50:09"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The next era of US retirement: Four shifts redefining competition",
             "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition",
             "summary": "The US retirement industry is entering a new era. Four shifts, from AI to product innovation, are redefining where value will be created.",
-            "fetched_at": "2026-10-20 11:37:55"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The state of business aviation in 2026: Resilient, despite headwinds",
-            "link": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds",
-            "summary": "Our inaugural business aviation article finds that demand for private aviation services continues to grow, straining supply chains and infrastructure. Leaders will be those that respond quickly.",
-            "fetched_at": "2026-10-20 11:37:55"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Building businesses that last",
-            "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last",
-            "summary": "What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.",
-            "fetched_at": "2026-10-20 11:37:55"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
-            "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
-            "summary": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in one of the world’s biggest economic corridors.",
-            "fetched_at": "2026-10-20 11:37:55"
+            "fetched_at": "2026-10-21 11:50:09"
         }
     ]
 }
