@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 22, 2026 at 11:53 AM",
+    "last_updated": "October 23, 2026 at 11:40 AM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
+            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
+            "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.",
+            "fetched_at": "2026-10-23 11:40:04"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The State of Grocery Retail Europe: Implications for packaging players",
             "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
             "summary": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
-            "fetched_at": "2026-10-22 11:53:40"
+            "fetched_at": "2026-10-23 11:40:04"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
             "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
             "summary": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.",
-            "fetched_at": "2026-10-22 11:53:40"
+            "fetched_at": "2026-10-23 11:40:04"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
             "link": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
             "summary": "The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from improving their competitiveness. But actions from business and policymakers could reverse this trend.",
-            "fetched_at": "2026-10-22 11:53:40"
+            "fetched_at": "2026-10-23 11:40:04"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Three horizons of quantum: A business road map to the future computing economy",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
-            "summary": "In the next decade, quantum technology could create trillions in value and break encryption, delivering opportunity but also risk. Leading companies are acting now to secure a competitive advantage.",
-            "fetched_at": "2026-10-22 11:53:40"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Switch tracks: Rewiring rolling stock for a new era",
-            "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era",
-            "summary": "Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from new builds toward servicing and renewals—while OEMs prepare for future opportunities.",
-            "fetched_at": "2026-10-22 11:53:40"
+            "title": "Federal permitting’s uneven economic impact, and what companies can do about it",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it",
+            "summary": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.",
+            "fetched_at": "2026-10-23 11:40:04"
         }
     ]
 }
