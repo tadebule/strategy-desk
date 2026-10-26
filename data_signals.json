@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 25, 2026 at 11:30 AM",
+    "last_updated": "October 26, 2026 at 01:05 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
+            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
+            "summary": "AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.",
+            "fetched_at": "2026-10-26 13:05:18"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Author Talks: AI is advancing. Is our judgment keeping up?",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
             "summary": "Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says the answer lies in learning not whether to trust AI, but when—and how much.",
-            "fetched_at": "2026-10-25 11:30:41"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The State of Grocery Retail Europe: Implications for packaging players",
-            "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
-            "summary": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
-            "fetched_at": "2026-10-25 11:30:41"
+            "fetched_at": "2026-10-26 13:05:18"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
             "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
             "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.",
-            "fetched_at": "2026-10-25 11:30:41"
+            "fetched_at": "2026-10-26 13:05:18"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The State of Grocery Retail Europe: Implications for packaging players",
+            "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
+            "summary": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
+            "fetched_at": "2026-10-26 13:05:18"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
             "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
             "summary": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.",
-            "fetched_at": "2026-10-25 11:30:41"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Federal permitting’s uneven economic impact, and what companies can do about it",
-            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it",
-            "summary": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.",
-            "fetched_at": "2026-10-25 11:30:41"
+            "fetched_at": "2026-10-26 13:05:18"
         }
     ]
 }
