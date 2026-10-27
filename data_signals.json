@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 26, 2026 at 01:05 PM",
+    "last_updated": "October 27, 2026 at 12:12 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Pfizer’s Alex Condoleon on medical affairs accountability",
+            "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability",
+            "summary": "Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what patient-first really means.",
+            "fetched_at": "2026-10-27 12:12:53"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Agentic AI in financial-crime prevention: Lessons from winners",
+            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners",
+            "summary": "A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and inspired five key questions that can help institutions scale.",
+            "fetched_at": "2026-10-27 12:12:53"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
             "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
             "summary": "AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.",
-            "fetched_at": "2026-10-26 13:05:18"
+            "fetched_at": "2026-10-27 12:12:53"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Agentic AI in transaction monitoring: How banks can scale AI in compliance",
+            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance",
+            "summary": "Applying AI to transaction monitoring shows how agents can transform compliance tasks and processes, turning cost centers into drivers of advantage.",
+            "fetched_at": "2026-10-27 12:12:53"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Author Talks: AI is advancing. Is our judgment keeping up?",
             "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
             "summary": "Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says the answer lies in learning not whether to trust AI, but when—and how much.",
-            "fetched_at": "2026-10-26 13:05:18"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
-            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
-            "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.",
-            "fetched_at": "2026-10-26 13:05:18"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The State of Grocery Retail Europe: Implications for packaging players",
-            "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
-            "summary": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
-            "fetched_at": "2026-10-26 13:05:18"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
-            "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
-            "summary": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.",
-            "fetched_at": "2026-10-26 13:05:18"
+            "fetched_at": "2026-10-27 12:12:53"
         }
     ]
 }
