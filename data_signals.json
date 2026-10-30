@@ -1,40 +1,40 @@
 {
-    "last_updated": "October 29, 2026 at 01:01 PM",
+    "last_updated": "October 30, 2026 at 12:56 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth",
+            "link": "https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth",
+            "summary": "Industrial leaders can turn disruption into growth by sharpening their focus, scaling to meet surging data-center power demand, and putting AI and continuous improvement to work.",
+            "fetched_at": "2026-10-30 12:56:47"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The algorithm isn’t the advantage–the team is",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is",
+            "summary": "FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.",
+            "fetched_at": "2026-10-30 12:56:47"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Global Economics Intelligence executive summary, September 2026",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
             "summary": "Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.",
-            "fetched_at": "2026-10-29 13:01:58"
+            "fetched_at": "2026-10-30 12:56:47"
         },
         {
             "firm": "McKinsey & Company",
-            "title": "Rewiring securities services for a new era of competition and growth",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth",
-            "summary": "Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services industry. How can leaders capture the next horizon of growth?",
-            "fetched_at": "2026-10-29 13:01:58"
+            "title": "Banking on AI: How a new operating model can transform distressed credit management",
+            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management",
+            "summary": "Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.",
+            "fetched_at": "2026-10-30 12:56:47"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Agentic AI in strategic sourcing: Hype or hero?",
             "link": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
             "summary": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is increasingly: Is it worth it?",
-            "fetched_at": "2026-10-29 13:01:58"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
-            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
-            "summary": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and evolving, with early evidence showing companies are not yet equipped to meet the rising demand.",
-            "fetched_at": "2026-10-29 13:01:58"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "What AI can’t replace—and why it matters for value",
-            "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
-            "summary": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change with empathy helps leaders build trust, strengthen relationships, and get the most out of their AI investments.",
-            "fetched_at": "2026-10-29 13:01:58"
+            "fetched_at": "2026-10-30 12:56:47"
         }
     ]
 }
