@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 04, 2026 at 02:33 PM",
+    "last_updated": "November 05, 2026 at 02:40 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Quality for quantity: The gains from investing in population health",
+            "link": "https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health",
+            "summary": "McKinsey Senior Partners Drew Ungerman and Pooja Kumar discuss the massive opportunities available to improve quality of life and economies by investing in three aspects of population health.",
+            "fetched_at": "2026-11-05 14:40:11"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "How AI can help unlock insurance growth in Latin America",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
+            "summary": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more efficiently.",
+            "fetched_at": "2026-11-05 14:40:11"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Why growth and specialization matter more than ever in private equity",
+            "link": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
+            "summary": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and building operational excellence, as Providence Equity Partners has learned firsthand.",
+            "fetched_at": "2026-11-05 14:40:11"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "The AI-enabled risk function of the future",
             "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
             "summary": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk operating model.",
-            "fetched_at": "2026-11-04 14:33:11"
+            "fetched_at": "2026-11-05 14:40:11"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
             "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
             "summary": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed how AI can turn productivity gains into a lever for growth.",
-            "fetched_at": "2026-11-04 14:33:11"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The 1 percent wake-up call for life insurers",
-            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers",
-            "summary": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around fee-based accumulation is disappearing. Life insurers have a choice to make.",
-            "fetched_at": "2026-11-04 14:33:11"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Future of Wellness 2027: Inside the $2.7 trillion takeover",
-            "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
-            "summary": "More consumers are prioritizing their health and scrutinizing what they buy. Our latest Future of Wellness research explores the trends shaping where they spend and what they expect in return.",
-            "fetched_at": "2026-11-04 14:33:11"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How frontier AI is rewriting software security rules",
-            "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules",
-            "summary": "As AI makes it easier and faster for cyberattackers to discover and exploit vulnerabilities in software, companies must change their approach to safeguarding their digital assets and infrastructure.",
-            "fetched_at": "2026-11-04 14:33:11"
+            "fetched_at": "2026-11-05 14:40:11"
         }
     ]
 }
