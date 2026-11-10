@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 09, 2026 at 04:20 PM",
+    "last_updated": "November 10, 2026 at 02:53 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Global Banking Annual Review 2026: The AI disruption dividend",
+            "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
+            "summary": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is up for grabs, and it will go to the banks that move with precision and speed. This time, there is no grace period.",
+            "fetched_at": "2026-11-10 14:53:48"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The new realities of grocery retail in the Americas and Europe",
+            "link": "https://www.mckinsey.com/industries/retail/our-insights/the-new-realities-of-grocery-retail-in-the-americas-and-europe",
+            "summary": "From AI and private brands to premium products and wellness-focused shopping, grocery retailers face new opportunities—and hard choices.",
+            "fetched_at": "2026-11-10 14:53:48"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
+            "summary": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and service delivery to better meet residents’ needs.",
+            "fetched_at": "2026-11-10 14:53:48"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Future of healthcare: Extinction or accelerated evolution?",
             "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
             "summary": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and biopharma breakthroughs to innovate clinical and business models.",
-            "fetched_at": "2026-11-09 16:20:39"
+            "fetched_at": "2026-11-10 14:53:48"
         },
         {
             "firm": "McKinsey & Company",
             "title": "How CFOs can make AI pay off",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off",
             "summary": "Creating value from AI in finance—and beyond—requires setting measurable targets and redesigning processes. Here’s how.",
-            "fetched_at": "2026-11-09 16:20:39"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Could aviation at last be close to earning its wings?",
-            "link": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
-            "summary": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and more are doing so consistently—yet the industry still cannot cover its cost of capital.",
-            "fetched_at": "2026-11-09 16:20:39"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "How AI is transforming automotive quality operations",
-            "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
-            "summary": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.",
-            "fetched_at": "2026-11-09 16:20:39"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
-            "link": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
-            "summary": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä – seuraavaksi kasvua on aika vauhdittaa suurilla liikkeillä.",
-            "fetched_at": "2026-11-09 16:20:39"
+            "fetched_at": "2026-11-10 14:53:48"
         }
     ]
 }
