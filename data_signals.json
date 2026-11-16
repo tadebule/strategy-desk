@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 15, 2026 at 01:56 PM",
+    "last_updated": "November 16, 2026 at 03:48 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
+            "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
+            "summary": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.",
+            "fetched_at": "2026-11-16 15:48:14"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power",
+            "link": "https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power",
+            "summary": "Companies that address the toughest bottlenecks in Britain’s power system could capture part of a £78 billion-a-year opportunity while helping deliver cleaner, more affordable, and more reliable power.",
+            "fetched_at": "2026-11-16 15:48:14"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "AI in Asia: Reimagining insurance operations through agentic AI",
+            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai",
+            "summary": "Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI and agents now make possible.",
+            "fetched_at": "2026-11-16 15:48:14"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "The CEO’s role in leading on sustainability",
+            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
+            "summary": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.",
+            "fetched_at": "2026-11-16 15:48:14"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
             "link": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
             "summary": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.",
-            "fetched_at": "2026-11-15 13:56:29"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Always orbiting: How consumers plan travel experiences now",
-            "link": "https://www.mckinsey.com/industries/travel/our-insights/always-orbiting-how-consumers-plan-travel-experiences-now",
-            "summary": "Most travelers keep researching after they book a trip. The travel industry needs to spark interest early, stay engaged with customers, and give them reasons to stick with their original choices.",
-            "fetched_at": "2026-11-15 13:56:29"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Separating signal from noise: The always-on finance intelligence layer",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
-            "summary": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
-            "fetched_at": "2026-11-15 13:56:29"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Programmatic M&A in Australia: The most reliable way to unlock value",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
-            "summary": "Fewer than one in 20 Australian-listed companies pursued programmatic M&amp;A over the past decade, but they delivered the highest excess shareholder returns of any cohort.",
-            "fetched_at": "2026-11-15 13:56:29"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
-            "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity",
-            "summary": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the national workforce shortage—could move into nursing and allied health roles and gain economic mobility.",
-            "fetched_at": "2026-11-15 13:56:29"
+            "fetched_at": "2026-11-16 15:48:14"
         }
     ]
 }
