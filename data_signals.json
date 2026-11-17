@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 16, 2026 at 03:48 PM",
+    "last_updated": "November 17, 2026 at 04:00 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Steel: Forging the foundation for the future of India",
+            "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
+            "summary": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower emissions.",
+            "fetched_at": "2026-11-17 16:00:10"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
             "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
             "summary": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.",
-            "fetched_at": "2026-11-16 15:48:14"
+            "fetched_at": "2026-11-17 16:00:10"
         },
         {
             "firm": "McKinsey & Company",
             "title": "Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power",
             "link": "https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power",
             "summary": "Companies that address the toughest bottlenecks in Britain’s power system could capture part of a £78 billion-a-year opportunity while helping deliver cleaner, more affordable, and more reliable power.",
-            "fetched_at": "2026-11-16 15:48:14"
+            "fetched_at": "2026-11-17 16:00:10"
         },
         {
             "firm": "McKinsey & Company",
             "title": "AI in Asia: Reimagining insurance operations through agentic AI",
             "link": "https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai",
             "summary": "Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI and agents now make possible.",
-            "fetched_at": "2026-11-16 15:48:14"
+            "fetched_at": "2026-11-17 16:00:10"
         },
         {
             "firm": "McKinsey & Company",
             "title": "The CEO’s role in leading on sustainability",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
             "summary": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.",
-            "fetched_at": "2026-11-16 15:48:14"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
-            "link": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
-            "summary": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.",
-            "fetched_at": "2026-11-16 15:48:14"
+            "fetched_at": "2026-11-17 16:00:10"
         }
     ]
 }
