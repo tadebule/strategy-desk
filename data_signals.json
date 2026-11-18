@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 17, 2026 at 04:00 PM",
+    "last_updated": "November 18, 2026 at 03:40 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Capex in chemicals: Generating value through performance excellence",
+            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence",
+            "summary": "With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one of the largest untapped levers to improve performance.",
+            "fetched_at": "2026-11-18 15:40:20"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "What is cloud computing? -test",
+            "link": "https://www.mckinsey.com/what-is-cloud-computing--test",
+            "summary": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+            "fetched_at": "2026-11-18 15:40:20"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "What is cloud computing? -test",
+            "link": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
+            "summary": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+            "fetched_at": "2026-11-18 15:40:20"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
+            "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age",
+            "summary": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders from HOCHTIEF PPP Solutions to learn about their innovation playbook.",
+            "fetched_at": "2026-11-18 15:40:20"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Steel: Forging the foundation for the future of India",
             "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
             "summary": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower emissions.",
-            "fetched_at": "2026-11-17 16:00:10"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
-            "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
-            "summary": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.",
-            "fetched_at": "2026-11-17 16:00:10"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power",
-            "link": "https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power",
-            "summary": "Companies that address the toughest bottlenecks in Britain’s power system could capture part of a £78 billion-a-year opportunity while helping deliver cleaner, more affordable, and more reliable power.",
-            "fetched_at": "2026-11-17 16:00:10"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "AI in Asia: Reimagining insurance operations through agentic AI",
-            "link": "https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai",
-            "summary": "Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI and agents now make possible.",
-            "fetched_at": "2026-11-17 16:00:10"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The CEO’s role in leading on sustainability",
-            "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
-            "summary": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.",
-            "fetched_at": "2026-11-17 16:00:10"
+            "fetched_at": "2026-11-18 15:40:20"
         }
     ]
 }
