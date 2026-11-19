@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 18, 2026 at 03:40 PM",
+    "last_updated": "November 19, 2026 at 03:45 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "Stefan Latuski on transforming public sector services at scale",
+            "link": "https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale",
+            "summary": "The chief information officer of Germany’s Federal Employment Agency shares how his organization has reimagined customer communication by simplifying and standardizing processes—not just by replacing its technology.",
+            "fetched_at": "2026-11-19 15:45:12"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "A bold vision for Belgium",
+            "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium",
+            "summary": "A productivity revolution could more than double the country’s economic growth and ensure future prosperity.",
+            "fetched_at": "2026-11-19 15:45:12"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Capex in chemicals: Generating value through performance excellence",
             "link": "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence",
             "summary": "With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one of the largest untapped levers to improve performance.",
-            "fetched_at": "2026-11-18 15:40:20"
+            "fetched_at": "2026-11-19 15:45:12"
         },
         {
             "firm": "McKinsey & Company",
             "title": "What is cloud computing? -test",
             "link": "https://www.mckinsey.com/what-is-cloud-computing--test",
             "summary": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
-            "fetched_at": "2026-11-18 15:40:20"
+            "fetched_at": "2026-11-19 15:45:12"
         },
         {
             "firm": "McKinsey & Company",
             "title": "What is cloud computing? -test",
             "link": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
             "summary": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
-            "fetched_at": "2026-11-18 15:40:20"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
-            "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age",
-            "summary": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders from HOCHTIEF PPP Solutions to learn about their innovation playbook.",
-            "fetched_at": "2026-11-18 15:40:20"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "Steel: Forging the foundation for the future of India",
-            "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
-            "summary": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower emissions.",
-            "fetched_at": "2026-11-18 15:40:20"
+            "fetched_at": "2026-11-19 15:45:12"
         }
     ]
 }
