@@ -1,40 +1,40 @@
 {
-    "last_updated": "November 24, 2026 at 05:46 PM",
+    "last_updated": "November 25, 2026 at 05:14 PM",
     "articles": [
+        {
+            "firm": "McKinsey & Company",
+            "title": "The AI readiness gap",
+            "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap",
+            "summary": "Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?",
+            "fetched_at": "2026-11-25 17:14:39"
+        },
+        {
+            "firm": "McKinsey & Company",
+            "title": "Regaining the competitiveness of Europe’s industrials the European way",
+            "link": "https://www.mckinsey.com/industries/industrials/our-insights/regaining-the-competitiveness-of-europes-industrials-the-european-way",
+            "summary": "Our research shows that 45 percent of European industrial companies exhibit heightened levels of financial stress or even distress. Six proven turnaround approaches show how companies can respond.",
+            "fetched_at": "2026-11-25 17:14:39"
+        },
         {
             "firm": "McKinsey & Company",
             "title": "Global Economics Intelligence executive summary, October 2026",
             "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
             "summary": "Energy market shocks, rising bond yields, mounting sovereign debt, and climbing inflation challenge policymakers and central bankers, but growth remains somewhat resilient.",
-            "fetched_at": "2026-11-24 17:46:10"
+            "fetched_at": "2026-11-25 17:14:39"
         },
         {
             "firm": "McKinsey & Company",
             "title": "What is the agentic factory? An update to the machinery of transformation for financial-services businesses",
             "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses",
             "summary": "An agentic factory is a centralized model to accelerate the development of effective agentic systems.",
-            "fetched_at": "2026-11-24 17:46:10"
+            "fetched_at": "2026-11-25 17:14:39"
         },
         {
             "firm": "McKinsey & Company",
             "title": "What it really takes to get value from AI: Highlights from McKinsey Media Day",
             "link": "https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day",
             "summary": "Companies are pouring money into AI, but few see returns. McKinsey leaders explain what separates the few—from picking problems to redesigning roles.",
-            "fetched_at": "2026-11-24 17:46:10"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "The unit of activation: How industrial companies can make AI work",
-            "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-unit-of-activation-how-industrial-companies-can-make-ai-work",
-            "summary": "Industrial companies won’t unlock AI’s full potential by adding new tools to old processes. They need to redesign workflows—and a practical way to make that transformation happen.",
-            "fetched_at": "2026-11-24 17:46:10"
-        },
-        {
-            "firm": "McKinsey & Company",
-            "title": "AI economics in action: What four companies have done and learned",
-            "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned",
-            "summary": "As the cost of AI increases, some companies have found a way to lower expenses and improve outcomes.",
-            "fetched_at": "2026-11-24 17:46:10"
+            "fetched_at": "2026-11-25 17:14:39"
         }
     ]
 }
